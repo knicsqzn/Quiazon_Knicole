@@ -302,10 +302,10 @@ while (a):
             print(f'     Python treats uppercase and lowercase letters differently.\n')
             print(f"  {RI}Correct way{RESET} \n  ")
             print(f" {CO}  1 nike = 'John' ")
-            print(f"   2 print(name){RESET} \n\n")
+            print(f"   2 print(nike){RESET} \n\n")
             print(f"  {WR}Incorrect way{RESET} \n ")
             print(f" {CO}  1 nike = 'John'  ")
-            print(f"   2 print(Name){RESET}\n \n")
+            print(f"   2 print(Nike){RESET}\n \n")
 
             print(f"   2. Indentation ")
             print(f'     Unlike other programming languages, Python uses indentation (spaces) to define blocks of code.\n')
